@@ -1,3 +1,5 @@
+
+![logo](https://github.com/subhasishpramanick/subhasishpramanick/blob/main/Black%20Finance%20Money%20Coach%20YouTube%20Thumbnail%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Subhasish Pramanick</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
